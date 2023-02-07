@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(248, 217, 170);
+}
+h3{
+    color:rgb(20, 20, 31); font: size 12px;
+}
+p{
+    color:rgb(23, 27, 34); font: size 12px;
+}
+/*กำหนด hr ไข่ปลา */
+hr{border-style: none;
+       border-top-style: dotted;
+       border-color: rgb(86, 79, 153) ;
+       border-width: 5px;
+       width: 70%;
+    }
+    img{
+        background-color: rgb(236, 233, 238);
+    }
+   .Lemon{
+    background-color: rgb(241, 229, 229);
+   }
+   .circular{
+    border-radius:100%;
+   }
+   #heading{
+    color:rgb(21, 82, 24);
+    font-style:italic;
+   }
